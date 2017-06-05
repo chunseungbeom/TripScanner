@@ -18,4 +18,5 @@
     <string name="save">저장</string>
     <string name="pick_profile_picture">Pick Profile Picture</string>
     <string name="profile_photo_file_name">profile_photo.png</string>
+    <string name="review_hint_text"><font size ="12">이 동행에 대한 생각을 자유롭게 표현해주세요.</font></string>
 </resources>
